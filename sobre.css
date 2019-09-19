@@ -1,0 +1,13 @@
+#sobre {
+    background-color: aquamarine;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#sobre p span {
+    color: antiquewhite;
+    font-weight: bold;
+}
